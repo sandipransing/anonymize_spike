@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/sandipransing/data-anonymization.git
-  revision: 1facc6fc2e35a51586c78a8901d52c9a42e9dce4
+  revision: 1743ace2e27697020571c4d80e36286ba73dcdb8
   branch: rails4
   specs:
     data-anonymization (0.7.4)
